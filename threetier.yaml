@@ -76,7 +76,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: "mohanraz81/ubsfrontend"
+        image: "rushabh95523888/ubs2backend"
         ports:
           - name: http
             containerPort: 80
